@@ -32,7 +32,7 @@
 
       <!-- You only need to change these information, starts here! -->
       <p>Here is the information you need to change:</p>
-      <span class="badge badge-primary">Your name - Nwar Alain Bin Hazmi</span>
+      <span class="badge badge-primary">Your name </span>
       <br>
       <span class="badge badge-secondary">Your student ID (sID)</span>
       <br>
